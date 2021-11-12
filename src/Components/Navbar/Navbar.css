@@ -1,0 +1,28 @@
+.navbar-container {
+  background: black;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100%;
+  width: 100vw;
+  box-shadow: 0 3px 10px lightgray;
+}
+
+.logo-container {
+  color: white;
+  margin: 10px;
+}
+
+.text-logo {
+  font-size: 48px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #f3ecf0;
+}
+
+@media screen and (max-width: 1024px) {
+  .text-logo {
+    font-size: 30px;
+  }
+} ;

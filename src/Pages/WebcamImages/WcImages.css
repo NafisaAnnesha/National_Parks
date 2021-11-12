@@ -1,0 +1,31 @@
+.images-container {
+  min-height: 100%;
+  width: 100vw;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.park-image {
+  flex-basis: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.park-image img {
+  max-width: 80vw;
+  align-self: center;
+  padding: 10px;
+  border-radius: 20px;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+
+.park-image img:hover {
+  border: 1px solid silver;
+  max-width: 85vw;
+}

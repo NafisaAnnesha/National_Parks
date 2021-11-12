@@ -1,0 +1,71 @@
+.activities-container {
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100vw;
+}
+
+.activities-title {
+  color: rgb(222, 235, 234);
+  background-color: #02051b;
+  font-size: 2em;
+  margin-top: 15px;
+  padding: 20px;
+  border-radius: 10px 30px 10px;
+}
+.info-text {
+  color: #e8e9f3;
+  background-color: rgba(3, 26, 41, 0.644);
+  padding: 10px;
+  font-size: 20px;
+  border-color: #02051b;
+ 
+}
+
+.total-parks {
+  color: rgb(245, 245, 245);
+  background-color: rgba(6, 6, 53, 0.658);
+  margin-bottom: 20px;
+}
+
+.total-parks span {
+  color: rgb(17, 184, 114);
+  font-size: 20px;
+}
+.grid-items {
+  background-color: #6d708550;
+  height: 100%;
+  width: 100vw;
+  padding-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  border-top: 3px solid lightgray;
+  box-shadow: 3px 3px 6px gray inset;
+}
+
+.activity-box {
+  background-color: #02051b94;
+  flex-basis: 200px 200px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px 20px;
+  border: 2px solid gray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: rgb(2, 13, 24);
+  box-shadow: 3px 3px 6px lightseagreen inset;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+
+.activity-box:hover {
+  box-shadow: 2px 2px 4px lightseagreen, -3px -3px 5px gray;
+  background: #18040cb7;
+}

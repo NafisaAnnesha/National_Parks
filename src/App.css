@@ -1,0 +1,5 @@
+.App {
+  background: rgb(243, 238, 238) url(./bg.jpeg);
+  background-size: contain;
+  background-attachment: fixed;
+}

@@ -1,0 +1,95 @@
+.mainParks-container {
+  background-size: contain;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100vw;
+}
+
+.parks-title {
+  color: rgb(201, 221, 220);
+  font-size: 2em;
+  margin-top: 15px;
+  border-radius: 10px 30px 10px;
+  background-color: #012345a4;
+}
+
+.parks-title span {
+  color: #cfd1e0;
+  background-color: #01234571;
+}
+
+.parkInfo-container {
+background-size: flex
+;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #012345;
+}
+
+.learnMore-button {
+  background: #e1e5eb;
+  color: #040e1f;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 3px 3px 5px gray;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s all ease-in-out;
+}
+.learnMore-button:hover {
+  color: #a76707;
+}
+
+.parks-container {
+  height: 100%;
+  background-color: #02142752;
+  width: 100vw;
+  padding-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-top: 3px solid lightgray;
+  box-shadow: 3px 3px 6px gray inset;
+}
+
+.park-box {
+  background-color: rgba(16, 56, 88, 0.671);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px 10px;
+  border: 2px solid gray;
+  flex-basis: 45%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: rgb(85, 147, 209);
+  box-shadow: 3px 3px 6px lightseagreen inset;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+
+.park-box:hover {
+  box-shadow: 2px 2px 4px lightseagreen, -3px -3px 5px gray;
+  background: #7099beb7;
+}
+
+.park-box h2 {
+  font-size: 1rem;
+}
+
+.park-location {
+  color: rgb(211, 210, 221);
+}
+.park-designation {
+  color: rgb(228, 228, 240);
+}
