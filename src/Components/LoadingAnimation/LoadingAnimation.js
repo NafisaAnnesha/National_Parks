@@ -1,7 +1,7 @@
 import React from 'react';
 import './LoadingAnimation.css';
 
-//  SImple loading text appears when data is being loaded from the api
+//  Simple loading text appears when data is being loaded from the api
 const LoadingAnimation = () => {
     return (
         <div className="animation-container">
