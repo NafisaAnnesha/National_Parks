@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* Setting the router here instead of the app component. It is a good practise for using react-router-dom components anywhere from the app */}
+    {/* Setting the router here instead of the app component. */}
     <Router>
       <App />
     </Router> 
