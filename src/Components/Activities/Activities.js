@@ -11,7 +11,7 @@ const Activities = () => {
         //  using the context api created on the App.js file.
         const [activities, setActivities] = useContext(ActivitiesContext);
 
-        //  using useNavigate react hook. (before it was useHistory. In the last update or react router dom it is using as useNavigate)
+        //  using useNavigate react hook. 
         const navigate = useNavigate();
         
       //  Function to handle the clik command to  pull up the user in the parks page
