@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ec893f6.chunk.css",
-    "main.js": "/static/js/main.7fd6e98a.chunk.js",
-    "main.js.map": "/static/js/main.7fd6e98a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.48162240.js",
-    "runtime-main.js.map": "/static/js/runtime-main.48162240.js.map",
-    "static/js/2.0bfc3c0d.chunk.js": "/static/js/2.0bfc3c0d.chunk.js",
-    "static/js/2.0bfc3c0d.chunk.js.map": "/static/js/2.0bfc3c0d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.0ec893f6.chunk.css.map": "/static/css/main.0ec893f6.chunk.css.map",
-    "static/js/2.0bfc3c0d.chunk.js.LICENSE.txt": "/static/js/2.0bfc3c0d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/bg.341a847f.jpeg"
+    "main.css": "/National_Parks/static/css/main.81d57093.chunk.css",
+    "main.js": "/National_Parks/static/js/main.399287e3.chunk.js",
+    "main.js.map": "/National_Parks/static/js/main.399287e3.chunk.js.map",
+    "runtime-main.js": "/National_Parks/static/js/runtime-main.e3427134.js",
+    "runtime-main.js.map": "/National_Parks/static/js/runtime-main.e3427134.js.map",
+    "static/js/2.34466431.chunk.js": "/National_Parks/static/js/2.34466431.chunk.js",
+    "static/js/2.34466431.chunk.js.map": "/National_Parks/static/js/2.34466431.chunk.js.map",
+    "index.html": "/National_Parks/index.html",
+    "static/css/main.81d57093.chunk.css.map": "/National_Parks/static/css/main.81d57093.chunk.css.map",
+    "static/js/2.34466431.chunk.js.LICENSE.txt": "/National_Parks/static/js/2.34466431.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/National_Parks/static/media/bg.341a847f.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.48162240.js",
-    "static/js/2.0bfc3c0d.chunk.js",
-    "static/css/main.0ec893f6.chunk.css",
-    "static/js/main.7fd6e98a.chunk.js"
+    "static/js/runtime-main.e3427134.js",
+    "static/js/2.34466431.chunk.js",
+    "static/css/main.81d57093.chunk.css",
+    "static/js/main.399287e3.chunk.js"
   ]
 }
