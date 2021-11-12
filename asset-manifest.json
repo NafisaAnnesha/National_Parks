@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/National_Parks/static/css/main.81d57093.chunk.css",
+    "main.css": "/National_Parks/static/css/main.dc67980b.chunk.css",
     "main.js": "/National_Parks/static/js/main.399287e3.chunk.js",
     "main.js.map": "/National_Parks/static/js/main.399287e3.chunk.js.map",
     "runtime-main.js": "/National_Parks/static/js/runtime-main.e3427134.js",
@@ -8,14 +8,14 @@
     "static/js/2.34466431.chunk.js": "/National_Parks/static/js/2.34466431.chunk.js",
     "static/js/2.34466431.chunk.js.map": "/National_Parks/static/js/2.34466431.chunk.js.map",
     "index.html": "/National_Parks/index.html",
-    "static/css/main.81d57093.chunk.css.map": "/National_Parks/static/css/main.81d57093.chunk.css.map",
+    "static/css/main.dc67980b.chunk.css.map": "/National_Parks/static/css/main.dc67980b.chunk.css.map",
     "static/js/2.34466431.chunk.js.LICENSE.txt": "/National_Parks/static/js/2.34466431.chunk.js.LICENSE.txt",
     "static/media/App.css": "/National_Parks/static/media/bg.341a847f.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e3427134.js",
     "static/js/2.34466431.chunk.js",
-    "static/css/main.81d57093.chunk.css",
+    "static/css/main.dc67980b.chunk.css",
     "static/js/main.399287e3.chunk.js"
   ]
 }
