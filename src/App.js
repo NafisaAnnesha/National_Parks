@@ -9,7 +9,7 @@ import WcImages from './Pages/WebcamImages/WcImages';
 
 
 
-//  Creating the Activities context to use the activity data from anywhere of the applicationl.
+//  Creating the Activities context to use the activity data from anywhere of the application.
 export const ActivitiesContext = createContext();
 
 
